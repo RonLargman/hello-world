@@ -1,2 +1,2 @@
 # hello-world
-first repository
+I am Ron I wont to learn mashin lerning
